@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+*.7z
+*.zip
+*.exe
+*.dll
+*.bin
+*.pyz
+bridge.json
+launcher.lock
+session-started
+config.yaml
+theme_pack_list.yaml
+logs/
